@@ -1,0 +1,9 @@
+/* styles.css */
+body {
+    overflow-y: scroll; /* Add vertical scroll */
+}
+
+.extra-content {
+    font-size: 200px;
+    height: 200px; /* Define the height of extra content */
+}
